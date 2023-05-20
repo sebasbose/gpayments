@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4978f89-2cba-45c2-a3d3-c2f738f4b203" name="Default Changelist" comment="" />
+    <list default="true" id="a4978f89-2cba-45c2-a3d3-c2f738f4b203" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gpayments.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/gpayments.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lttZi6vcLlJSri6Cb3h9vNX4LH" />
   <component name="ProjectViewState">
@@ -31,5 +39,11 @@
       <updated>1608428273391</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1608663611212">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="369" y="291" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1608663611212" />
   </component>
 </project>
